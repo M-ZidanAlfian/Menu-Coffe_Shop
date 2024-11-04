@@ -2,37 +2,37 @@
   {
     "coffee_id": 1,
     "coffee_title": "Caffè Latte",
-    "coffee_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "coffee_detail": "Caffè latte adalah perpaduan espresso kental dengan susu kukus lembut, dihiasi lapisan tipis busa. Kombinasi sempurna antara kekuatan kopi dan kelembutan manisnya susu..",
     "coffee_poster": "https://m-zidanalfian.github.io/Menu-Coffe_Shop/image/caffe_latte.jpg"
   },
   {
     "coffee_id": 2,
     "coffee_title": "Cappuccino",
-    "coffee_detail": "Espresso with steamed milk, topped with a deep layer of foam.",
+    "coffee_detail": "Espresso dengan susu kukus, dilengkapi lapisan busa yang tebal..",
     "coffee_poster": "https://m-zidanalfian.github.io/Menu-Coffe_Shop/image/cappucino.jpg"
   },
   {
     "coffee_id": 3,
     "coffee_title": "Caffè Mocha",
-    "coffee_detail": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
+    "coffee_detail": "Espresso dengan saus mocha yang pahit manis dan susu kukus, dihiasi dengan krim kocok manis.",
     "coffee_poster": "https://m-zidanalfian.github.io/Menu-Coffe_Shop/image/caffe_moccha.jpg"
   },
   {
     "coffee_id": 4,
     "coffee_title": "Caramel Macchiato",
-    "coffee_detail": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it’s then topped with our proprietary buttery caramel sauce. Sweet!",
+    "coffee_detail": "Espresso yang dipadukan dengan sirup beraroma vanilla, susu, dan saus karamel di atas es. Sebuah klasik dari Starbucks, sempurna untuk hari-hari musim panas. Espresso khas kami dicampur dengan sirup vanilla dan susu dingin yang dituangkan di atas es, lalu diberi topping saus karamel lembut kami!",
     "coffee_poster": "https://m-zidanalfian.github.io/Menu-Coffe_Shop/image/caramel_macchiato.jpg"
   },
   {
     "coffee_id": 5,
     "coffee_title": "Vanilla Sweet Cream Cold Brew",
-    "coffee_detail": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+    "coffee_detail": "Tepat sebelum disajikan, Cold Brew yang diseduh lambat ini dilengkapi dengan lapisan lembut krim manis vanilla buatan sendiri yang perlahan mengalir menyelimuti seluruh cangkir.",
     "coffee_poster": "https://m-zidanalfian.github.io/Menu-Coffe_Shop/image/vanila_sweet.jpg"
   },
   {
     "coffee_id": 6,
     "coffee_title": "Mocha Frappuccino",
-    "coffee_detail": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
+    "coffee_detail": "Saus mocha, kopi Frappuccino® roast, susu, dan es berpadu sempurna, menciptakan rasa mocha yang membuat ketagihan.",
     "coffee_poster": "https://m-zidanalfian.github.io/Menu-Coffe_Shop/image/mocha_frappucino.jpg"
   }
 ]
